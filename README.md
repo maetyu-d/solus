@@ -10,10 +10,20 @@ A short video of example output is availabe here: https://youtu.be/00enOZ3DJf4 o
 
 ## Technical Details
 
-General overview of the system:
+Equipment list is as follows:
+
+- 2 Mac laptop computers
+- 4 Rode M5 small capsule condsener microphones: http://www.rode.com/microphones/m5
+- 2 DIY/homemade contact microphones
+- 2 4-channel USB audio interfaces
+- 2 custom Max/Jitter patches (created using: https://cycling74.com/downloads)
+- 1 subscription to Audiomovers ListenTo plugin/service: https://audiomovers.com/
+- Twitch channel: https://www.twitch.tv/mdwlv
+
+A general overview of the system can be seen below:
 
 ![](https://github.com/matdwlv/solus/blob/master/site_diagram.png)
 
-Details of the audio mixing and concatenative sound synthesis:
+Details of the audio mixing and bi-lateral concatenative sound synthesis are shown below:
 
 ![](https://github.com/matdwlv/solus/blob/master/audio.png)
