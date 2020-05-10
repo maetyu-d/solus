@@ -1,4 +1,4 @@
-# Solus: An Online Audivisual Installation
+# SOLUS: An Online Audivisual Installation
 
 Solus is an online audiovisual installation that tries to express an experience, shared between two friends some 200 miles apart, of ‘lockdown’ in the UK. Drawing on Fisher’s concept of the eerie, the installation combines and processes live visual and audio feeds from the authors’ respective home work/studio spaces to create a cut-up and detemporalised (un)reality that explores what is like to have remained entirely indoors since early March 2020 (a period of 9 weeks at time of writing).
 
