@@ -17,6 +17,7 @@ Equipment list is as follows:
 - 2 DIY/homemade contact microphones
 - 2 4-channel USB audio interfaces
 - 2 custom Max/Jitter patches - one for each site (created using: https://cycling74.com/downloads)
+- Syphon plugins for sharing video: http://syphon.v002.info/
 - Subscription to Audiomovers ListenTo plugin/service: https://audiomovers.com/
 - Twitch channel: https://www.twitch.tv/mdwlv
 
