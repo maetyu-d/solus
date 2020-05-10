@@ -16,8 +16,8 @@ Equipment list is as follows:
 - 4 Rode M5 small capsule condsener microphones: http://www.rode.com/microphones/m5
 - 2 DIY/homemade contact microphones
 - 2 4-channel USB audio interfaces
-- 2 custom Max/Jitter patches (created using: https://cycling74.com/downloads)
-- 1 subscription to Audiomovers ListenTo plugin/service: https://audiomovers.com/
+- 2 custom Max/Jitter patches - one for each site (created using: https://cycling74.com/downloads)
+- Subscription to Audiomovers ListenTo plugin/service: https://audiomovers.com/
 - Twitch channel: https://www.twitch.tv/mdwlv
 
 A general overview of the system can be seen below:
